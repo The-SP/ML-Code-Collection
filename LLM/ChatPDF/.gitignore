@@ -1,0 +1,4 @@
+__pycache__/
+pdfs/*.pdf
+faiss_index/
+.env

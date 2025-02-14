@@ -1,2 +1,9 @@
 tf_models/
 PlantVillage/
+
+.env
+.venv
+env/
+
+*.pyc
+*.pth
