@@ -19,3 +19,8 @@ dependencies = [
     "trustcall>=0.0.39",
     "wikipedia>=1.4.0",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
